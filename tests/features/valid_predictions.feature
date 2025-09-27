@@ -8,7 +8,7 @@ Feature: Valid predictions
     And the CYPlebrity model
 
     When the model generates predictions for the molecule representations
-    And the subset of the result where the input was not None is considered
+    And the subset of the result where the preprocessed mol was not None is considered
 
     Then The result should contain the columns:
             prediction_1
@@ -21,17 +21,16 @@ Feature: Valid predictions
             neighbor_4
             prediction_5
             neighbor_5
-    # TODO: filter invalid molecules
-    # And the value in column 'prediction_1' should be between 0 and 1
-    # And the value in column 'neighbor_1' should be between 0 and 1
-    # And the value in column 'prediction_2' should be between 0 and 1
-    # And the value in column 'neighbor_2' should be between 0 and 1
-    # And the value in column 'prediction_3' should be between 0 and 1
-    # And the value in column 'neighbor_3' should be between 0 and 1
-    # And the value in column 'prediction_4' should be between 0 and 1
-    # And the value in column 'neighbor_4' should be between 0 and 1
-    # And the value in column 'prediction_5' should be between 0 and 1
-    # And the value in column 'neighbor_5' should be between 0 and 1
+    And the value in column 'prediction_1' should be between 0 and 1
+    And the value in column 'neighbor_1' should be between 0 and 1
+    And the value in column 'prediction_2' should be between 0 and 1
+    And the value in column 'neighbor_2' should be between 0 and 1
+    And the value in column 'prediction_3' should be between 0 and 1
+    And the value in column 'neighbor_3' should be between 0 and 1
+    And the value in column 'prediction_4' should be between 0 and 1
+    And the value in column 'neighbor_4' should be between 0 and 1
+    And the value in column 'prediction_5' should be between 0 and 1
+    And the value in column 'neighbor_5' should be between 0 and 1
 
 
   Examples:
