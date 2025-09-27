@@ -1,6 +1,23 @@
 # CHANGELOG
 
 
+## v0.0.11 (2025-09-27)
+
+### Fixes
+
+* fix: Use curl instead of wget in github actions ([`577d8de`](https://github.com/molinfo-vienna/cyplebrity/commit/577d8deebfda1e925d0216b7f397f7c48f285c3f))
+
+* fix: Re-enable column tests ([`42849d3`](https://github.com/molinfo-vienna/cyplebrity/commit/42849d39568af488aa26bb74adec8b9fdc418bd5))
+
+* fix: Update dependencies ([`9141843`](https://github.com/molinfo-vienna/cyplebrity/commit/9141843960bbbeed59a63ce4ed702c1a9387ca1e))
+
+### Unknown
+
+* Merge pull request #21 from shirte/main
+
+Update dependencies ([`f046c7f`](https://github.com/molinfo-vienna/cyplebrity/commit/f046c7f1cdcbd8c965cc932df87a09a327c4a682))
+
+
 ## v0.0.10 (2025-09-01)
 
 ### Documentation
