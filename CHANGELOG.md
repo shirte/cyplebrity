@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.0.12 (2025-10-10)
+
+### Fixes
+
+* fix: Update dependencies ([`8a4ebc8`](https://github.com/molinfo-vienna/cyplebrity/commit/8a4ebc805233b020d14fe8894a2447d575a0644e))
+
+### Unknown
+
+* Merge pull request #22 from shirte/main
+
+Update dependencies ([`13f30aa`](https://github.com/molinfo-vienna/cyplebrity/commit/13f30aaf3f3e06674941c0905f3ba3845e34303f))
+
+
 ## v0.0.11 (2025-09-27)
 
 ### Fixes
