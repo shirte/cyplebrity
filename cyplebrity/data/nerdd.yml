@@ -19,8 +19,8 @@ module:
     891), the [ChEMBL database](https://www.ebi.ac.uk/chembl/) and the [ADME
     Database(Fujitsu)](https://www.fujitsu.com/global/solutions/business-technology/tc/sol/admedatabase/).
 
-    The research was funded by Fujitsu and the WEB SERVICE IS PROVIDED FREE OF CHARGE
-    FOR ACADEMIC RESEARCH.
+    The research was funded by Fujitsu. This web service is freely available for both academic and 
+    commercial use.
 
   partners:
     - name: University of Vienna
@@ -31,22 +31,7 @@ module:
       url: https://www.uni-hamburg.de/
 
   publications:
-    - title: |
-        CYPlebrity: Machine learning models for the prediction of inhibitors of cytochrome 
-        P450 enzymes
-      authors:
-        - first_name: Wojtek
-          last_name: Plonka
-        - first_name: Conrad
-          last_name: Stork
-        - first_name: Martin
-          last_name: Šícho
-        - first_name: Johannes
-          last_name: Kirchmair
-          email: johannes.kirchmair@univie.ac.at
-      journal: Bioorg Med Chem. 2021 Sep 15;46:116388
-      year: 2021
-      doi: 10.1016/j.bmc.2021.116388
+    - doi: 10.1016/j.bmc.2021.116388
 
   about: |
     The documentation will be here soon ...
