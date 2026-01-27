@@ -1,6 +1,23 @@
 # CHANGELOG
 
 
+## v0.0.13 (2026-01-27)
+
+### Fixes
+
+* fix: Use only DOI for publication ([`5cb6fbe`](https://github.com/molinfo-vienna/cyplebrity/commit/5cb6fbe924c778c53298c4bfef2213ea5f43c39e))
+
+* fix: Add license statement ([`ad6956b`](https://github.com/molinfo-vienna/cyplebrity/commit/ad6956b6b47d40f9fdfb289f23fa5609cb7b7af8))
+
+* fix: Update nerdd dependencies ([`0fd89f0`](https://github.com/molinfo-vienna/cyplebrity/commit/0fd89f07f7e1f5e1938b85bb74010bd6a659e94c))
+
+### Unknown
+
+* Merge pull request #23 from shirte/main
+
+Update nerdd dependencies ([`526f89d`](https://github.com/molinfo-vienna/cyplebrity/commit/526f89dfc8f39cfc6158758127687e34bfd978e3))
+
+
 ## v0.0.12 (2025-10-10)
 
 ### Fixes
