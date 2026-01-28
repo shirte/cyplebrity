@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.0.14 (2026-01-28)
+
+### Fixes
+
+* fix: Update nerdd-link ([`61eba3c`](https://github.com/molinfo-vienna/cyplebrity/commit/61eba3cb1c57be9e291e91624a6bfca1dc495655))
+
+### Unknown
+
+* Merge pull request #24 from shirte/main
+
+Update nerdd-link ([`2c1471d`](https://github.com/molinfo-vienna/cyplebrity/commit/2c1471d78d7fd5989cc7d6f1b7485138f0bf7389))
+
+
 ## v0.0.13 (2026-01-27)
 
 ### Fixes
